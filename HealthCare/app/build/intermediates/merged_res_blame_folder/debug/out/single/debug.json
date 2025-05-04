@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_multi_lines.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/multi_lines.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_widgets.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/widgets.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_info.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/info.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_health3.jpeg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/health3.jpeg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_home.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_doctor_details.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_doctor_details.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_chat.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/chat.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.healthcare.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_dentist.jpg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/dentist.jpg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_btn_bg.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_login.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_health5.jpeg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/health5.jpeg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_family_physicians.jpg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/family_physicians.jpg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_buy_medicine_book.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_buy_medicine_book.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_back2.jpg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/back2.jpg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_find_doctor.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_find_doctor.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_cart_buy_medicine.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_cart_buy_medicine.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_lab_test_book.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_lab_test_book.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_ic_baseline_security_24.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_lab_test.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_lab_test.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_dietician.jpg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/dietician.jpg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_background.jpg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/background.jpg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_surgeon.jpeg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/surgeon.jpeg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_back1.jpg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/back1.jpg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_health4.jpeg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/health4.jpeg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_language.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/language.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_input_bg.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_book_appointment.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_book_appointment.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_register.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_order_details.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_order_details.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_health1.jpeg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/health1.jpeg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_calendar.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/calendar.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_cart_lab.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_cart_lab.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_buy_medicine_details.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_buy_medicine_details.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_lab_test_details.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_lab_test_details.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_cardiologists.jpg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/cardiologists.jpg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_health2.jpeg.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/health2.jpeg"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_health_articles.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_health_articles.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.healthcare.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_buy_medicine.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_buy_medicine.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/drawable_home.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/drawable/home.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-31:/layout_activity_health_articles_details.xml.flat",
+        "source": "com.example.healthcare.app-main-33:/layout/activity_health_articles_details.xml"
+    }
+]
